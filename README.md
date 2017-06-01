@@ -1,2 +1,3 @@
 # hello-world
-this i my first project
+this is my first project
+lets start
